@@ -4,7 +4,7 @@
 
 # Overview
 
-#### This is an advance ecommerce webApp built in MERN Stack.
+### This is an advance ecommerce webApp built in MERN Stack.
 
 ##### MongoDB - NoSQL database hosted on ATLAS Cloud.
 
